@@ -1,0 +1,1 @@
+pythor3 GUIxScript.py || python GUIxScript.py
